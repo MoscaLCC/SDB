@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Earth_Portable_Server_Icons">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/earth_enterprise/legacy_installer/Scripts/portable/windows-installer/server_extra/Earth_Portable_Server_Icons.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

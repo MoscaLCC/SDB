@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="proj-datumgrid-1.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/earth_enterprise/src/third_party/proj/proj-datumgrid-1.5.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
